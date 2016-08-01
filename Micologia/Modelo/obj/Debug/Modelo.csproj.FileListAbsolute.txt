@@ -1,0 +1,14 @@
+C:\Projetos\Micologia\Modelo\bin\Debug\Micologia.Modelo.dll
+C:\Projetos\Micologia\Modelo\bin\Debug\Micologia.Modelo.pdb
+C:\Projetos\Micologia\Modelo\obj\Debug\Micologia.Modelo.dll
+C:\Projetos\Micologia\Modelo\obj\Debug\Micologia.Modelo.pdb
+C:\Projetos\Alca\alcadesenvolvimento\Micologia\Modelo\bin\Debug\Micologia.Modelo.dll
+C:\Projetos\Alca\alcadesenvolvimento\Micologia\Modelo\bin\Debug\Micologia.Modelo.pdb
+C:\Projetos\Alca\alcadesenvolvimento\Micologia\Modelo\obj\Debug\Micologia.Modelo.dll
+C:\Projetos\Alca\alcadesenvolvimento\Micologia\Modelo\obj\Debug\Micologia.Modelo.pdb
+C:\Projetos\Alca\alcadesenvolvimento\Micologia\Modelo\obj\Debug\ResolveAssemblyReference.cache
+C:\PROJETOS\Micologia\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\asantos\Dropbox\Projetos\Micologia\Micologia\Modelo\bin\Debug\Micologia.Modelo.dll
+C:\Users\asantos\Dropbox\Projetos\Micologia\Micologia\Modelo\bin\Debug\Micologia.Modelo.pdb
+C:\Users\asantos\Dropbox\Projetos\Micologia\Micologia\Modelo\obj\Debug\Micologia.Modelo.dll
+C:\Users\asantos\Dropbox\Projetos\Micologia\Micologia\Modelo\obj\Debug\Micologia.Modelo.pdb

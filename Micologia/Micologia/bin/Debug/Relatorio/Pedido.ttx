@@ -1,0 +1,12 @@
+paciente	String	100	
+exame	String	1000	
+idade	String	1000	
+nrProntuario	String	1000	
+local	String	1000	
+medicoSolicitante	String	1000	
+Data	String	1000	
+nrExame	String	1000	
+cultura	String	1000	
+sObsResultado	String	1000	
+sObsCultura	String	1000	
+ResultadoDireto	String	1000	
